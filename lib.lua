@@ -1,6 +1,3 @@
--- SleekUI Library
--- A modern, sleek UI library for Roblox with blurry transparent backgrounds
-
 local SleekUI = {}
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
